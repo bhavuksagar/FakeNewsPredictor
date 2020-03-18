@@ -1,1 +1,1 @@
-<h1>Fake News Predictor</h1>
+<centre><h1>Fake News Predictor</h1></centre>
